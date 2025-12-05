@@ -1,7 +1,10 @@
 > [!WARNING]
-> This is super experimental and I don't recommend anyone use it. 
-> If you do, @grantsform is not responsible for instability, data loss, etc. 
-> LetsAbsolutely zero warranty or stability guarantees.
+> <div align="center">
+> This is super experimental and I don't recommend anyone use it.<br>
+> If you do you are agreeing that, @grantsform is not responsible for instability, data loss, etc.<br>
+> There is absolutely zero warranty nor stability guarantees.
+> </div>
+
 
 <p align="center">
   <img src="banner.png" alt="GrantiOS" width="100%"/>

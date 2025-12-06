@@ -10,8 +10,9 @@
   <img src="banner.png" alt="GrantiOS" width="100%"/>
 </p>
 
-> Grant's Grandiose Vision Of How Linux Should Work.
+> <div align="center">Grant's Grandiose Vision Of How Linux Should Work.</div>
 
+ <div align="center">
 <details>
   <summary><code>A Note On The Current State Of GrantiOS</code></summary>
 
@@ -24,6 +25,7 @@
   </div>
 
 </details>
+</div>
 
 ### LOG
 **`2025-12-05`**, it works. Sorta.

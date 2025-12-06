@@ -29,4 +29,8 @@
 
 ### LOG
 **`2025-12-05`**, it works. Sorta.
-> Starting to move all my personal machines over to GrantiOS.
+> Starting to move all my personal machines over to GrantiOS
+
+### TODO
+- [ ] Move to more api / 'action' driven workflow. 
+- [ ] Port to Go, for deeper integration into CharmBracelet? 

@@ -24,3 +24,7 @@
   </div>
 
 </details>
+
+### LOG
+**`2025-12-05`**, it works. Sorta.
+> Starting to move all my personal machines over to GrantiOS.

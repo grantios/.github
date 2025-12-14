@@ -32,5 +32,4 @@
 > Starting to move all my personal machines over to GrantiOS
 
 ### TODO
-- [ ] Move to more api / 'action' driven workflow. 
-- [ ] Port to Go, for deeper integration into CharmBracelet? 
+- [x] Port to Go, for deeper integration into CharmBracelet? 
